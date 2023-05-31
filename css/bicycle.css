@@ -8,10 +8,11 @@ li {
     list-style: none;
 }
 .logo {
+    text-align: center;
     margin-left: 15px;
     margin-right:70px;
-    float:left;
-    font-size: 27px;
+    float: center;
+    font-size: 40px;
     font-weight: bold;
     color : pink;
     border-color: 1px solid #000;
@@ -40,6 +41,7 @@ html {
 }
 .header-center a { 
 
+    font-size: 20px;
     text-decoration: none;
     color: #000;
     display:inline-block; 
@@ -60,7 +62,7 @@ html {
 /* 로그인 css */
 .log {
     float: right;
-    font-size: 10px;
+    font-size: 20px;
     margin-right: 20px;
 }
 
@@ -70,8 +72,11 @@ html {
     text-decoration: none;
     display:inline-block;
     color: #000; 
-
 }
+a:hover {
+    color: violet;
+}
+
 
 /* 슬라이더 1 시작 */
 .slider-1 {
@@ -426,6 +431,7 @@ img {
     font-family: '나눔스퀘어', NanumSquare, NS, '맑은 고딕', MalgunGothic, '돋움', Dotum;
 }
 .main_update .more_btn {
+
     float: right;
     margin-top: -17px;
     cursor: pointer;
@@ -435,7 +441,7 @@ img {
 
     text-decoration: none;
     cursor: pointer;
-    font-size: 12px;
+    font-size: 20px;
     margin-top: -10px;
 }
 .main_update ul {
