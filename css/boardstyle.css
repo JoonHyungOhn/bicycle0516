@@ -41,6 +41,7 @@ html {
 }
 .header-center a { 
 
+    font-size: 20px;
     text-decoration: none;
     color: #000;
     display:inline-block; 
@@ -63,9 +64,10 @@ html {
 /* 로그인 css */
 .log {
     float: right;
-    font-size: 10px;
+    font-size: 20px;
     margin-right: 20px;
 }
+
 
 
 .log a{

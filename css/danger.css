@@ -41,6 +41,7 @@ html {
 }
 .header-center a { 
 
+    font-size: 20px;
     text-decoration: none;
     color: #000;
     display:inline-block; 
@@ -70,6 +71,7 @@ html {
     float:left;
     text-decoration: none;
     display:inline-block;
-    color: #000; 
+    color: #000;
+    font-size: 20px; 
 
 }
